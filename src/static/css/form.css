@@ -1,0 +1,41 @@
+/* .opwnwrt-input {
+  border: none !important;
+  height: 50px !important;
+}
+.btn-openwrt {
+  background-color: #1061a1;
+  color: white;
+  border: none !important;
+  font-weight: bold;
+  position: absolute;
+  top: 45%; 
+  left: 25%; 
+  transform: translateX(-50%); 
+}
+
+.btn-openwrt:hover {
+  background-color: #1061a1;
+  color: white;
+  border: none !important;
+} */
+.opwnwrt-input {
+  border: none !important;
+  height: 50px !important;
+}
+
+.btn-openwrt {
+  background-color: #1061a1;
+  color: white;
+  border: none !important;
+  font-weight: bold;
+  position: fixed;
+  top: 60%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+}
+
+.btn-openwrt:hover {
+  background-color: #70a0c6;
+  color: white;
+  border: none !important;
+}
